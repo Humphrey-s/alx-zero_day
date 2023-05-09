@@ -1,2 +1,5 @@
-My first readme alx
-Git project
+<<<<<<< HEAD
+My first readme
+=======
+My first readme
+>>>>>>> update_script
