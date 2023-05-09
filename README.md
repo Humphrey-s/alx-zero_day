@@ -1,5 +1,9 @@
 <<<<<<< HEAD
-My first readme
+<<<<<<< HEAD
+
 =======
-My first readme
+
+>>>>>>> update_script
+=======
+
 >>>>>>> update_script
